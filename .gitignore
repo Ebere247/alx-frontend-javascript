@@ -6,3 +6,5 @@ node_modules/
 .DS_Store
 *.key
 *.pub
+node_modules/
+task_5/dist/

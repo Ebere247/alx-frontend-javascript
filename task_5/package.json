@@ -1,0 +1,23 @@
+{
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.19.118",
+    "@typescript-eslint/eslint-plugin": "^2.4.0",
+    "@typescript-eslint/parser": "^2.4.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "undici-types": "^7.11.0",
+    "webpack": "^5.100.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
